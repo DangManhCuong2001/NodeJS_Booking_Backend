@@ -4,7 +4,7 @@ module.exports = {
         "username": "postgres",
         "password": "Cuong14062001!",
         "database": "postgres",
-        "host": "db.zxkimzobfpxgzrtktsgt.supabase.co",
+        "host": "db.hclnqgewdpntmzdmkpof.supabase.co",
         "port": "5432",
         "dialect": "postgres",
         "define": {
